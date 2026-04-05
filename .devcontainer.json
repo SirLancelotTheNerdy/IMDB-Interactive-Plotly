@@ -1,0 +1,12 @@
+{
+	"name": "Python 3",
+	"image": "mcr.microsoft.com/devcontainers/python",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"ms-toolsai.jupyter"
+			]
+		}
+	},
+	"onCreateCommand": "pip install ipython ipykernel pandas plotly"
+}
