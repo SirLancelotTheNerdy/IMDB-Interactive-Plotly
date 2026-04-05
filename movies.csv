@@ -1,0 +1,11 @@
+movie_title,release_date,genre,imdb_rating,revenue,production_budget,release_month,release_year
+The Shawshank Redemption,1994-09-23,Drama,9.3,28000000,25000000,September,1994
+The Godfather,1972-03-24,Crime,9.2,245000000,6000000,March,1972
+The Dark Knight,2008-07-18,Action,9.0,1004558444,185000000,July,2008
+Pulp Fiction,1994-10-14,Crime,8.9,213928762,8000000,October,1994
+The Lord of the Rings: The Return of the King,2003-12-17,Adventure,8.9,1119920922,94000000,December,2003
+The Matrix,1999-03-31,Sci-Fi,8.7,466500000,63000000,March,1999
+Inception,2010-07-16,Action,8.8,829895144,160000000,July,2010
+Forrest Gump,1994-07-06,Drama,8.8,678600000,55000000,July,1994
+The Lion King,1994-06-15,Animation,8.5,968500000,45000000,June,1994
+Star Wars: Episode IV - A New Hope,1977-05-25,Action,8.6,775400000,11000000,May,1977
